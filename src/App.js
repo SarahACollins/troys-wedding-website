@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   const handleRedirect = () => {
-    window.location.href =
+    window.top.location.href =
       'https://nemo.webqa.epicexplorers.info/adhocwidgets/OpenScheduling/adhocs/JBY2/resources/openSchedulingSimple.aspx';
   };
 
