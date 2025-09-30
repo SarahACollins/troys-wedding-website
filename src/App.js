@@ -11,8 +11,6 @@ function App() {
         <a
           className="App-link"
           href="https://nemo.webqa.epicexplorers.info/adhocwidgets/OpenScheduling/adhocs/JBY2/resources/openSchedulingSimple.aspx"
-          target="_blank"
-          rel="noopener noreferrer"
         >
           Josie's ad hoc stage 1 widget
         </a>
