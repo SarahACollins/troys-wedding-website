@@ -1,21 +1,20 @@
-import logo from './logo.svg';
+import troy from './Image20250124134605.jpg';
+import devon from './15693.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <img src={troy} className="App-logo" alt="logo" />
+        <img src={devon} className="App-logo" alt="logo" />
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://nemo.webqa.epicexplorers.info/adhocwidgets/OpenScheduling/adhocs/JBY2/resources/openSchedulingSimple.aspx"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Josie's ad hoc stage 1 widget
         </a>
       </header>
     </div>
