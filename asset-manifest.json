@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/troys-wedding-website/static/css/main.f855e6bc.css",
-    "main.js": "/troys-wedding-website/static/js/main.1fffdf99.js",
+    "main.js": "/troys-wedding-website/static/js/main.6ad4a739.js",
     "static/js/453.deb9751e.chunk.js": "/troys-wedding-website/static/js/453.deb9751e.chunk.js",
     "index.html": "/troys-wedding-website/index.html",
     "main.f855e6bc.css.map": "/troys-wedding-website/static/css/main.f855e6bc.css.map",
-    "main.1fffdf99.js.map": "/troys-wedding-website/static/js/main.1fffdf99.js.map",
+    "main.6ad4a739.js.map": "/troys-wedding-website/static/js/main.6ad4a739.js.map",
     "453.deb9751e.chunk.js.map": "/troys-wedding-website/static/js/453.deb9751e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.1fffdf99.js"
+    "static/js/main.6ad4a739.js"
   ]
 }
