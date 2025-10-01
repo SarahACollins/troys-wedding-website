@@ -5,7 +5,7 @@ import './App.css';
 function App() {
  const handleRedirect = () => {
     window.top.location.href =
-      'https://nemo.webqa.epicexplorers.info/adhocwidgets/OpenScheduling/adhocs/JBY2/resources/openSchedulingSimple.aspx';
+      'https://nemo.webqa.epicexplorers.info/adhocwidgets/OpenScheduling/adhocs/scollins_postlogin/resources/openSchedulingSimple.aspx';
   };
 
   // without top redirect
@@ -18,7 +18,7 @@ function App() {
         <button className="App-link" onClick={handleRedirect}>
           Josie's ad hoc stage 1 widget web link
         </button>
-        <a className="App-link" href="https://nemo.webqa.epicexplorers.info/adhocwidgets/OpenScheduling/adhocs/JBY2/resources/openSchedulingSimple.aspx">
+        <a className="App-link" href="https://nemo.webqa.epicexplorers.info/adhocwidgets/OpenScheduling/adhocs/scollins_postlogin/resources/openSchedulingSimple.aspx">
           Josie's ad hoc stage 1 widget mobile link
         </a>
       </header>
